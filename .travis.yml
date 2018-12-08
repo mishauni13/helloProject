@@ -3,7 +3,7 @@ addons:
   sonarcloud:
     organization: "mishauni13-github"
     token:
-      secure: a74ab65620a5dec28ac81666333ada287437c439
+      secure: 6e8f8d5ad0f565f68f628a25715312c95706324c
     branches:
       - master
 script:
